@@ -30,9 +30,10 @@ cd bdata-talentanalytics
 ```bash
 anaconda-navigator
 ```
-4. Launch Jupyter notebook and load data for the corresponding exercise:
+4. Launch Jupyter Notebook, load libraries and load data for the corresponding exercise:
    
 ```python
+# load libraries
 import numpy as np 
 import pandas as pd 
 import warnings
@@ -40,11 +41,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 %matplotlib inline
 
-# load from github
+# load data from github
 df = pd.read_csv("https://raw.githubusercontent.com/redurne/bdata-talentanalytics/main/ex1/dataset/employees_attrition.csv")
 df.head()
 
-# load from local
+# load data from local
 df = pd.read_csv("./<relative_local_dataset_path>")
 df.head()
 ```
