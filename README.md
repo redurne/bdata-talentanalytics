@@ -40,7 +40,12 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 %matplotlib inline
 
+# load from github
 df = pd.read_csv("https://raw.githubusercontent.com/redurne/bdata-talentanalytics/main/ex1/dataset/employees_attrition.csv")
+df.head()
+
+# load from local
+df = pd.read_csv("./<relative_local_dataset_path>")
 df.head()
 ```
 
