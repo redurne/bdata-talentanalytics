@@ -48,5 +48,4 @@ df.head()
 df = pd.read_csv("./<relative_local_dataset_path>")
 df.head()
 ```
-
-   
+5. Once data is loaded, jump to [Exercise 1](./ex1/README.md) or [Exercise 2](./ex2/README.md)
