@@ -25,7 +25,7 @@ git clone https://github.com/redurne/bdata-talentanalytics.git
 ```bash
 cd bdata-talentanalytics
 ```
-3. Open Anaconda Navigator. You can do that by either from the Windows apps or opening Anaconda Prompt and then running:
+3. Open Anaconda Navigator. You can do that either from the Windows apps or by opening the Anaconda Prompt and then running:
 
 ```bash
 anaconda-navigator
