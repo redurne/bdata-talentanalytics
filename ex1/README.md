@@ -1,4 +1,4 @@
-# ex1-employee attrition
+# ex1-employee-attrition
 
 **Notes**:
 - The notebook contains cells with both text instructions and code.

@@ -6,13 +6,13 @@
 Delve deep into the patterns and understand the driving factors behind employee attrition. This exercise allows you to explore the dataset, visualize trends, and derive meaningful insights related to employee retention.
   
 - **Dataset**: [Link to Dataset](./ex1/dataset/employees_attrition.csv)
-- **Notebook**: TBC
+- **Notebook**: [Link to Notebook](./ex2/notebook/)
 
 ### Exercise 2: Employee learnings
 Dive into an analysis that showcases the learning patterns of employees across various dimensions. By understanding which courses or trainings have been favored, you could forecast future learning trends.
 
 - **Dataset**: [Link to Dataset](./ex2/dataset/employee_learnings.csv)
-- **Notebook**: TBC
+- **Notebook**: [Link to Notebook](./ex2/notebook/)
 
 ## Getting Started
 
