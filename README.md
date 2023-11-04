@@ -17,7 +17,7 @@ Dive into an analysis that showcases the learning patterns of employees across v
 ### Exercise 3: Employee engagement
 Explore an analysis of employee engagement across different aspects. By identifying what employees value most, you can anticipate future engagement trends.
 
-- **Engagement survey example**: please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScRFsNFz4dCu1sqI9LpRh5MX9irxmlXuEYZOrW837EAN-C16A/viewform?usp=sf_link)
+- **Engagement survey example**: please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScRFsNFz4dCu1sqI9LpRh5MX9irxmlXuEYZOrW837EAN-C16A/viewform?usp=sf_link) (anonymous)
 
 
 ## Getting Started
