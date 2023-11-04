@@ -14,6 +14,12 @@ Dive into an analysis that showcases the learning patterns of employees across v
 - **Dataset**: [Link to Dataset](./ex2/dataset/employee_learnings.csv)
 - **Notebook**: [Link to Notebook](./ex2/notebook/)
 
+### Exercise 3: Employee engagement
+Explore an analysis of employee engagement across different aspects. By identifying what employees value most, you can anticipate future engagement trends.
+
+- **Engagement survey example**: please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScRFsNFz4dCu1sqI9LpRh5MX9irxmlXuEYZOrW837EAN-C16A/viewform?usp=sf_link)
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine:
