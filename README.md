@@ -8,18 +8,6 @@ Delve deep into the patterns and understand the driving factors behind employee 
 - **Dataset**: [Link to Dataset](./ex1/dataset/employees_attrition.csv)
 - **Notebook**: [Link to Notebook](./ex1/notebook/)
 
-### Exercise 2: Employee learnings
-Dive into an analysis that showcases the learning patterns of employees across various dimensions. By understanding which courses or trainings have been favored, you could forecast future learning trends.
-
-- **Dataset**: [Link to Dataset](./ex2/dataset/employee_learnings.csv)
-- **Notebook**: [Link to Notebook](./ex2/notebook/)
-
-### Exercise 3: Employee engagement
-Explore an analysis of employee engagement across different aspects. By identifying what employees value most, you can anticipate future engagement trends.
-
-- **Engagement survey example**: please complete [this survey](https://docs.google.com/forms/d/e/1FAIpQLScRFsNFz4dCu1sqI9LpRh5MX9irxmlXuEYZOrW837EAN-C16A/viewform?usp=sf_link) (anonymous)
-
-
 ## Getting Started
 
 1. Clone this repository to your local machine:
@@ -55,4 +43,4 @@ df.head()
 df = pd.read_csv("./<relative_local_dataset_path>")
 df.head()
 ```
-5. Once data is loaded, jump to [Exercise 1](./ex1/README.md) or [Exercise 2](./ex2/README.md)
+5. Once data is loaded, jump to [Exercise 1](./ex1/README.md)
